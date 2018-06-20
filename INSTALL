@@ -1,0 +1,9 @@
+Building YuanCoin
+
+See doc/readme-qt.rst for instructions on building YuanCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of YuanCoin.
+
+See doc/build-*.txt for instructions on building YuanCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of YuanCoin.
